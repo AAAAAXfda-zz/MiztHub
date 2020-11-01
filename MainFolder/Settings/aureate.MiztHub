@@ -1,0 +1,1 @@
+{"AccPos":[{"Pos":[0,0.75,0],"Rot":[-135,90,0],"Placement":"MH_aureatesword","Name":"MeshPartAccessory","Picker":{"MeshId":"4315410540"}},{"Pos":[0,0.15,0],"Rot":[-90,0,180],"Placement":"MH_aureategun","Name":"RightMk73LP"}],"FlingAcc":[{"Bullet":true},{"Picker":{"MeshId":"4315410540"},"Name":"MeshPartAccessory"}],"Reanim":true}
