@@ -1,0 +1,1 @@
+{"AccPos":[{"Pos":[0,-0.5,0],"Rot":[-125,-90,0],"Placement":"MH_carnageshotgun","Name":"Scattergun","Picker":{"MeshId":"5133162215"}},{"Pos":[0,0.5,-1.25],"Rot":[-90,0,180],"Placement":"MH_carnagegun","Name":"RightMk73LP"}],"FlingAcc":[{"Bullet":true}],"Reanim":true}
