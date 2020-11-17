@@ -1,0 +1,1 @@
+{"AccPos":[{"Rot":[45,90,0],"Pos":[0,0.75,-1],"Placement":"MH_lightningcannongun","Name":"Starslayer Railgun"},{"Rot":[135,0,90],"Pos":[-0.5,0.5,-1],"Placement":"MH_lightningcannonrwing","Name":"SoloWing2"},{"Rot":[45,0,90],"Pos":[-0.5,0.5,1],"Placement":"MH_lightningcannonlwing","Name":"SoloWing"}],"FlingAcc":[{"Bullet":true}],"Reanim":true}
